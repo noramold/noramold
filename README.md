@@ -25,6 +25,9 @@ She/her/hers
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU_Bash&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
+
 <!-- -  [![](https://img.shields.io/badge/Email-informational?style=flat&logo=gmail&logoColor=white&color=4AB197)]
 (mailto:nora.moldestad@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) -->
 ## 📌 Pinned Repositories
