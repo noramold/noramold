@@ -8,13 +8,13 @@
 <!-- <br> -->
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/noramold/noramold">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=carebot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/noramold/noramold">
+<a href="https://github.com/noramold/cloud_bot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=cloud_bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/noramold/noramold">
+<a href="https://github.com/noramold/carebot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=carebot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/noramold/Datbot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=DadBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
