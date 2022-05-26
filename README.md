@@ -22,9 +22,9 @@ She/her/hers
 
 #### 🌱I’m currently learning
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Nginx-informational?style=flat&logo=NGINX&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Nginx-informational?style=flat&logo=Nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU_Bash&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=4AB197)
 
