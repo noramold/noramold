@@ -10,7 +10,7 @@
 ### ❗ About me
 
 #### 📫 How to reach me
-[![](https://img.shields.io/badge/Nora_Moldestad-informational?style=flat&logo=gmail&logoColor=white&color=4AB197)](mailto:nora.moldestad@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![](https://img.shields.io/badge/Nora_Moldestad-informational?style=flat&logo=gmail&logoColor=white&color=4AB197)](mailto:nora.moldestad@gmail.com?subject=[GitHub]%20Hi%20There)
 
 #### 😄 Pronouns
 She/her/hers 
