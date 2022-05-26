@@ -1,8 +1,7 @@
 ![Nora's GitHub Banner](./img/GitHubHeader.png)
 <!-- (https://noramold.dev) for website-->
 
-<!-- ![Visits Badge](https://badges.pufler.dev/visits/noramold/noramold)] -->
-<!-- for website (https:noramold.dev) -->
+[![Visits Badge](https://badges.pufler.dev/visits/noramold/braydoncoyer)]([https:braydoncoyer.dev](https://www.linkedin.com/in/nora-moldestad/))
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nora-moldestad/)
 
 <!-- <br> -->
