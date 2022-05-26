@@ -6,8 +6,26 @@
 
 
 <br>
-- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197](mailto:nora.moldestad@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- 😄 Pronouns: ...
+
+### ❗ About me
+
+#### 📫 How to reach me
+[![](https://img.shields.io/badge/Nora_Moldestad-informational?style=flat&logo=gmail&logoColor=white&color=4AB197)](https://www.linkedin.com/in/nora-moldestad/)
+
+#### 😄 Pronouns
+She/her/hers 
+
+#### 🔭 Currently working on
+- Discord bot for the student conunsil of Informatics 
+- Making a resume website 
+- Improving previously implemented bots to handle slash commands
+
+#### 🌱I’m currently learning
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+<!-- -  [![](https://img.shields.io/badge/Email-informational?style=flat&logo=gmail&logoColor=white&color=4AB197)]
+(mailto:nora.moldestad@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) -->
 ## 📌 Pinned Repositories
 <a href="https://github.com/noramold/cloud_bot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=cloud_bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -51,6 +69,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Krita-informational?style=flat&logo=Krita&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 <!-- </details>-->
 
 <br>
