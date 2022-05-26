@@ -1,10 +1,13 @@
 ![Nora's GitHub Banner](./img/GitHubHeader.png)
 <!-- (https://noramold.dev) for website-->
 
-[![Visits Badge](https://badges.pufler.dev/visits/noramold/noramold)]
+![Visits Badge](https://badges.pufler.dev/visits/noramold/noramold)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nora-moldestad/)
 
-<!-- <br> -->
+
+<br>
+- 📫 How to reach me: [![Email Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197](mailto:nora.moldestad@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 😄 Pronouns: ...
 ## 📌 Pinned Repositories
 <a href="https://github.com/noramold/cloud_bot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=cloud_bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
