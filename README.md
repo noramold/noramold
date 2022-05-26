@@ -31,8 +31,8 @@
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=AssemblyScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 
-<details>
-<summary>More Skills</summary>
+<!-- <details>
+<summary>More Skills</summary>-->
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
@@ -49,7 +49,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Krita-informational?style=flat&logo=Krita&logoColor=white&color=4AB197)
-</details>
+<!-- </details>-->
 
 <br>
 
