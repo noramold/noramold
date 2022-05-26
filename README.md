@@ -1,4 +1,4 @@
-[![Nora's GitHub Banner](./img/GitHubHeader.png)]
+![Nora's GitHub Banner](./img/GitHubHeader.png)
 <!-- (https://noramold.dev) for website-->
 
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/noramold/noramold)] -->
