@@ -16,9 +16,9 @@
 She/her/hers 
 
 #### 🔭 Currently working on
-- Discord bot for the student conunsil of Informatics 
-- Making a resume website 
-- Improving previously implemented bots to handle slash commands
+- Discord bot for the Informatics Discord Server
+- Writing my masters 
+
 
 #### 🌱I’m currently learning
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -39,6 +39,9 @@ She/her/hers
 </a>
 <a href="https://github.com/noramold/DadBot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=DadBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/noramold/cloud_bo](https://github.com/noramold/slash-bot)">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=slash-bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
