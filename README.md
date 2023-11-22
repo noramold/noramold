@@ -24,9 +24,9 @@ She/her/hers
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU_Bash&logoColor=white&color=4AB197)
+
 
 
 <!-- -  [![](https://img.shields.io/badge/Email-informational?style=flat&logo=gmail&logoColor=white&color=4AB197)]
@@ -39,9 +39,7 @@ She/her/hers
 <a href="https://github.com/noramold/slashBot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=noramold&repo=slashBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/td-org-uit-no/discord-role-bot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=td-uit.no&repo=discord-role-bot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 
 
 <br>
